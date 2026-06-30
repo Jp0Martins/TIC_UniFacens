@@ -1,0 +1,17 @@
+cenario,periodo_dia,total_pares,pct
+A_todos,tarde,5763265,37.01
+A_todos,manha,5130902,32.94
+A_todos,noite,3872459,24.86
+A_todos,madrugada,807543,5.19
+B_2mais_eventos,tarde,1542337,40.2
+B_2mais_eventos,manha,1194468,31.13
+B_2mais_eventos,noite,947795,24.7
+B_2mais_eventos,madrugada,152138,3.97
+C_apenas_interzona,tarde,740042,39.67
+C_apenas_interzona,manha,560622,30.05
+C_apenas_interzona,noite,475066,25.47
+C_apenas_interzona,madrugada,89807,4.81
+D_duracao_ate_180,tarde,5502646,36.62
+D_duracao_ate_180,manha,4986873,33.19
+D_duracao_ate_180,noite,3743572,24.91
+D_duracao_ate_180,madrugada,794059,5.28
